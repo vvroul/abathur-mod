@@ -31,7 +31,7 @@ local assets = {
         Asset( "SOUND", "sound/wilson.fsb" ),
         Asset( "ANIM", "anim/beard.zip" ),
 
-        Asset( "ANIM", "anim/esctemplate.zip" ),
+        Asset( "ANIM", "anim/abathur.zip" ),
 }
 local prefabs = {}
 local start_inv = {
@@ -44,7 +44,7 @@ local fn = function(inst)
 	inst.soundsname = "willow"
 
 	-- Minimap icon
-	inst.MiniMapEntity:SetIcon( "esctemplate.tex" )
+	inst.MiniMapEntity:SetIcon( "abathur.tex" )
 	
 	-- Stats	
 	inst.components.health:SetMaxHealth(150)
@@ -62,4 +62,4 @@ local fn = function(inst)
 	inst.components.locomotor.runspeed = 6
 end
 
-return MakePlayerCharacter("esctemplate", prefabs, assets, fn, start_inv)
+return MakePlayerCharacter("abathur", prefabs, assets, fn, start_inv)
