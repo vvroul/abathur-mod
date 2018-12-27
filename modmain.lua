@@ -51,8 +51,8 @@ end)]]
 GLOBAL.STRINGS.CHARACTER_TITLES.ker = "The Swarm Evolution Master"
 GLOBAL.STRINGS.CHARACTER_NAMES.ker = "Abathur"  -- Note! This line is especially important as some parts of the game require
                                             -- the character to have a valid name.
-GLOBAL.STRINGS.CHARACTER_DESCRIPTIONS.ker = "Evolution Master of the Zerg Swarm.\nCan spawn toxic nests. Heals all friendly units and structures. \nCommands: T for toxic nests, M for mend."
-GLOBAL.STRINGS.CHARACTER_QUOTES.ker = "\"Work harder, better. Make faster, stronger... Evolution never over.\""
+GLOBAL.STRINGS.CHARACTER_DESCRIPTIONS.ker = "Can spawn toxic nests. \nHeals all friendly units. \nAbilities: T for toxic nests, M for mend."
+GLOBAL.STRINGS.CHARACTER_QUOTES.ker = "\"Evolution never over.\""
 
 
 
