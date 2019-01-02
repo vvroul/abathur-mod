@@ -26,3 +26,5 @@ server_filter_tags = {"zerg", "starcraft", "abathur"}
 
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
+
+
