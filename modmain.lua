@@ -20,7 +20,7 @@ Assets = {
 -- The character select screen lines
 -- note: these are lower-case character name
 GLOBAL.STRINGS.CHARACTER_TITLES.aba = "The Swarm Evolution Master"
-GLOBAL.STRINGS.CHARACTER_NAMES.aba = "Abathur"  -- Note! This line is especially important as some parts of the game require the character to have a valid name.
+GLOBAL.STRINGS.CHARACTER_NAMES.aba = "Abathur"  -- this has to be valid
 GLOBAL.STRINGS.CHARACTER_DESCRIPTIONS.aba = "Can spawn toxic nests. \nHeals all friendly units. \nAbilities: T for toxic nests, M for mend."
 GLOBAL.STRINGS.CHARACTER_QUOTES.aba = "\"Evolution never over.\""
 
