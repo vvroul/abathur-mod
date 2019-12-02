@@ -1,0 +1,19 @@
+[h1]Abathur Mod[/h1]
+
+[h1]Adds Abathur The Swarm Evolution Master to the game![/h1]
+
+[h1]Abathur can spawn toxic nests which deal additional damage to enemies when hit by them. [/h1]
+
+[h1]Abathur can also heal all units that are friends with him making them sustainable in battles.[/h1]
+
+Let me know if you have any comments, questions, or issues.
+
+
+
+[h1] Mods that inspired me [/h1]
+
+Kerrigan:
+[url]https://steamcommunity.com/sharedfiles/filedetails/?id=451724205[/url]
+
+Turfed!:
+[url]https://steamcommunity.com/sharedfiles/filedetails/?id=514078314[/url]
